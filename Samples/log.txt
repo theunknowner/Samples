@@ -1,9 +1,8 @@
-Wed Sep  9 09:06:32 2015
-Iterations: 508
+Time Elapsed: 0h:2m:53s
+Wed Sep  9 14:11:59 2015
+Iterations: 1089
 -----------------------
-Wed Sep  9 09:08:31 2015
-Iterations: 1043
------------------------
-Wed Sep  9 09:14:54 2015
-Iterations: 569
+Time Elapsed: 0h:0m:21s
+Wed Sep  9 14:52:25 2015
+Iterations: 138
 -----------------------
