@@ -10,3 +10,11 @@ Time Elapsed: 0h:2m:35s
 Wed Sep  9 19:36:05 2015
 Iterations: 874
 -----------------------
+Time Elapsed: 0h:2m:43s
+Thu Sep 10 11:38:31 2015
+Iterations: 979
+-----------------------
+Time Elapsed: 0h:2m:20s
+Thu Sep 10 12:08:16 2015
+Iterations: 864
+-----------------------
