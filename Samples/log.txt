@@ -26,3 +26,7 @@ Time Elapsed: 0h:0m:15s
 Thu Sep 10 12:27:40 2015
 Iterations: 1250
 -----------------------
+Time Elapsed: 0h:0m:3s
+Thu Sep 10 12:47:15 2015
+Iterations: 217
+-----------------------
