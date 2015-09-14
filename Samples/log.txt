@@ -30,3 +30,19 @@ Time Elapsed: 0h:0m:3s
 Thu Sep 10 12:47:15 2015
 Iterations: 217
 -----------------------
+Time Elapsed: 0h:0m:3s
+Mon Sep 14 13:36:10 2015
+Iterations: 237
+-----------------------
+Time Elapsed: 0h:0m:16s
+Mon Sep 14 13:52:00 2015
+Iterations: 1324
+-----------------------
+Time Elapsed: 0h:0m:10s
+Mon Sep 14 14:01:18 2015
+Iterations: 845
+-----------------------
+Time Elapsed: 0h:0m:4s
+Mon Sep 14 14:47:44 2015
+Iterations: 323
+-----------------------
