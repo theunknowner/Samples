@@ -122,3 +122,43 @@ Hidden Nodes: 65
 Output Size: 8
 Iterations: 1139
 -----------------------
+Time Elapsed: 0h:5m:15s
+Wed Sep 16 13:55:17 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 65
+Output Size: 8
+Iterations: 1537
+-----------------------
+Time Elapsed: 0h:3m:34s
+Wed Sep 16 14:07:06 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 65
+Output Size: 8
+Iterations: 1091
+-----------------------
+Time Elapsed: 0h:4m:56s
+Wed Sep 16 14:15:33 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 65
+Output Size: 8
+Iterations: 1537
+-----------------------
+Time Elapsed: 0h:2m:57s
+Wed Sep 16 14:25:15 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 65
+Output Size: 8
+Iterations: 942
+-----------------------
+Time Elapsed: 0h:3m:13s
+Wed Sep 16 14:33:51 2015
+Img Size: 40x40
+Input Size: 1600
+Hidden Nodes: 65
+Output Size: 8
+Iterations: 1010
+-----------------------
